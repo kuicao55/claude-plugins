@@ -4,25 +4,35 @@ A Claude Code plugin marketplace by [kuicao55](https://github.com/kuicao55).
 
 ## Available Plugins
 
-| Plugin | Description |
-| ------ | ----------- |
-| [claude-codex-harness](https://github.com/kuicao55/claude-codex-harness) | Structured development workflow with cross-session progress tracking, activity logging, and Generator vs. Evaluator (GvE) architecture |
+| Plugin name | Marketplace | Description |
+| ----------- | ----------- | ----------- |
+| `claude-codex-harness` | `kuicao-plugins` | Structured development workflow with cross-session progress tracking, activity logging, and Generator vs. Evaluator (GvE) architecture — [repo](https://github.com/kuicao55/claude-codex-harness) |
 
-## How to Use
+## How to Install
 
-Inside a Claude Code session:
+**Step 1 — Add this marketplace** (one-time, inside a Claude Code session):
 
 ```
 /plugin marketplace add kuicao55/claude-plugins
 ```
 
-Then install individual plugins:
+**Step 2 — Browse plugins** (optional, opens the UI):
+
+```
+/plugin
+```
+
+Go to the **Discover** tab to browse all available plugins.
+
+**Step 3 — Install a plugin:**
 
 ```
 /plugin install claude-codex-harness@kuicao-plugins
 ```
 
-Then reload:
+> Format: `/plugin install <plugin name>@<marketplace name>`
+
+**Step 4 — Reload:**
 
 ```
 /reload-plugins

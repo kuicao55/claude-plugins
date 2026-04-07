@@ -8,7 +8,7 @@
   },
   "plugins": [
     {
-      "name": "harness",
+      "name": "claude-codex-harness",
       "source": {
         "source": "github",
         "repo": "kuicao55/claude-codex-harness"
@@ -21,16 +21,7 @@
       "homepage": "https://github.com/kuicao55/claude-codex-harness",
       "repository": "https://github.com/kuicao55/claude-codex-harness",
       "license": "MIT",
-      "keywords": [
-        "workflow",
-        "tdd",
-        "progress-tracking",
-        "codex",
-        "orchestra",
-        "executor",
-        "reviewer",
-        "visual-companion"
-      ]
+      "keywords": ["workflow", "tdd", "progress-tracking", "codex", "orchestra", "executor", "reviewer", "visual-companion"]
     }
   ]
 }

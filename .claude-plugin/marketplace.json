@@ -13,15 +13,15 @@
         "source": "github",
         "repo": "kuicao55/claude-codex-harness"
       },
-      "description": "Structured development workflow with Orchestra / Executor / Reviewer architecture, cross-session progress tracking, activity logging, Visual Companion, and dual-engine Codex integration",
-      "version": "2.0.2",
+      "description": "Structured development workflow with Orchestrator / Executor / Reviewer architecture, cross-session progress tracking, activity logging, Visual Companion, and dual-engine Codex integration",
+      "version": "3.0.0",
       "author": {
         "name": "kuicao55"
       },
       "homepage": "https://github.com/kuicao55/claude-codex-harness",
       "repository": "https://github.com/kuicao55/claude-codex-harness",
       "license": "MIT",
-      "keywords": ["workflow", "tdd", "progress-tracking", "codex", "orchestra", "executor", "reviewer", "visual-companion"]
+      "keywords": ["workflow", "tdd", "progress-tracking", "codex", "orchestrator", "executor", "reviewer", "visual-companion"]
     }
   ]
 }

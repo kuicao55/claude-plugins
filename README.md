@@ -6,7 +6,7 @@ A Claude Code plugin marketplace by [kuicao55](https://github.com/kuicao55).
 
 | Plugin name | Marketplace | Description |
 | ----------- | ----------- | ----------- |
-| `claude-codex-harness` | `kuicao-plugins` | Structured development workflow with cross-session progress tracking, activity logging, and Generator vs. Evaluator (GvE) architecture — [repo](https://github.com/kuicao55/claude-codex-harness) |
+| `claude-codex-harness` | `kuicao-plugins` | Structured development workflow with Orchestrator / Executor / Reviewer architecture, cross-session progress tracking, activity logging, TDD process enforcement, and dual-engine Codex integration — [repo](https://github.com/kuicao55/claude-codex-harness) |
 
 ## How to Install
 

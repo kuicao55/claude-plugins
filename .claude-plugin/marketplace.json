@@ -14,7 +14,7 @@
         "repo": "kuicao55/super-harness"
       },
       "description": "Structured development workflow with Orchestrator / Executor / Reviewer architecture, cross-session progress tracking, activity logging, Visual Companion, and dual-engine Codex integration",
-      "version": "3.0.0",
+      "version": "3.1.0",
       "author": {
         "name": "kuicao55"
       },

@@ -11,8 +11,7 @@
       "name": "super-harness",
       "source": {
         "source": "github",
-        "repo": "kuicao55/super-harness",
-        "ref": "v3.2.2"
+        "repo": "kuicao55/super-harness"
       },
       "description": "Structured development workflow with Orchestrator / Executor / Reviewer architecture, cross-session progress tracking, activity logging, Visual Companion, and dual-engine Codex integration",
       "version": "3.2.2",
